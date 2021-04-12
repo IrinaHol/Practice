@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fe8c097-03de-437b-9d56-7d695bb512d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/.sequelizerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/configs/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/configs/sequelize.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/dataBaseTables.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/emailActions.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/errorCodes.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/regexp.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/constant/role.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/controller/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/controller/car.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/controller/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/controller/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/cron_Jobs/delete-old-tokens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/cron_Jobs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/migrations/20210323215613-create-users-tablet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/migrations/20210323220809-create-cars-tablet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/migrations/20210323221129-create-token-tablet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/models/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/models/O_Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/dataBase/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/docs/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/emailTemplates/delete.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/emailTemplates/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/emailTemplates/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/emailTemplates/template.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/emailTemplates/update.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/emailTemplates/welcome.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/helpers/__test__/utils.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/helpers/objectBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/helpers/password.helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/helpers/tokenizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/helpers/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/logger-file/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/logger/sentry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/logger/winston.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/message/ErrorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/message/error.messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/message/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/middleware/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/middleware/car.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/middleware/checkIsAdmin.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/middleware/file.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/middleware/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/middleware/user.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/router/api.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/router/auth.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/router/car.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/router/user.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/service/auth.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/service/car.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/service/file.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/service/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/service/mail.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/service/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/04174c60-8bfb-11eb-adf8-695ffc087ab9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/0621a1e0-8c28-11eb-abf2-ef06bdaac384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/0a593240-8c42-11eb-b978-d7670870e82a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/1a51d620-90c5-11eb-97bd-e1dd6583d7c9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/1b4885a0-8bf8-11eb-ab9e-e5822d590e75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/29615870-8e77-11eb-8ba0-f94efcbb1128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/2afd2f20-8bfb-11eb-9dff-5fdcc0eddb63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/2d038fd0-90c4-11eb-9891-33cd0850caec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/2de0b450-8c2d-11eb-a6b8-75c71081c281.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/2ed48c00-8e63-11eb-8859-c3f762a38d41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/3305a300-8c28-11eb-8626-f11566d43265.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/3429b170-8bf8-11eb-ab9e-e5822d590e75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/39306ef0-90c3-11eb-9891-33cd0850caec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/4a116e00-90c7-11eb-9bf2-15587b413ca0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/4c07a040-8e78-11eb-83f9-1b9a94bb50c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/4e969b70-8bfa-11eb-adf8-695ffc087ab9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/5362b390-8c28-11eb-8626-f11566d43265.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/5c0a47e0-8bf8-11eb-8c61-616bc218c1ec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/6a21b950-8c41-11eb-87d0-79fc9fbd6491.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/6d513380-90c4-11eb-abcd-33eea1e3be33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/79e86b90-8c41-11eb-97f6-3b602d7e9cda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/7aadf060-8c3f-11eb-9e19-39aadb6fb9e0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/7f374350-8e53-11eb-ab56-ff8e3ff19d55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/803d8f30-92c6-11eb-ab75-45ba7d83c5b0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/83e7c080-8c39-11eb-9e24-8184f42cafc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/84a5c5b0-8bff-11eb-b793-0172333fb119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/84cc3fa0-8e53-11eb-ab56-ff8e3ff19d55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/86ee5c50-8e53-11eb-ab56-ff8e3ff19d55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/91db92b0-90c7-11eb-9bf2-15587b413ca0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/91edb650-8c41-11eb-9d34-85f37f62df12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/95471650-8c48-11eb-9a9e-152eed43591d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/95e35c20-90c3-11eb-9891-33cd0850caec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/98f71180-8e62-11eb-889f-37684acdf629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/a7fc8e40-8bff-11eb-9c55-a96dacb9bf67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/c9d77650-8c2d-11eb-a6b8-75c71081c281.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/d5d856e0-8c41-11eb-94ce-8144a84b95ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/d9fa8b20-8e77-11eb-a6dd-8bd67cf00936.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/e6d437f0-8bf8-11eb-93d5-d77cfeb1cdd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/eb976980-8e62-11eb-889f-37684acdf629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/static/files/user/photos/fea5e700-90c3-11eb-9891-33cd0850caec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/car/createCar.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/car/idCarValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/car/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/car/updateCar.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/user/create-user.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/user/idUser.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/user/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/herocu/validators/user/updateUser.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/react1/src/components/all-posts/AllPostsComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/react1/src/components/all-posts/PostsComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/react1/src/components/one-user/OneUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS/react1/src/components/services/PostServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoliqueFront/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoliqueFront/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoliqueFront/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoliqueOktenInternship/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RoliqueOktenInternship/client/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RoliqueOktenInternship" />
+  </component>
+  <component name="ProjectId" id="1r11FVcqV1EmBgSntZxLdD4R6bQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RoliqueFront" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe8c097-03de-437b-9d56-7d695bb512d8" name="Default Changelist" comment="" />
+      <created>1618128679899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618128679899</updated>
+      <workItem from="1618128681499" duration="5698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,154 @@
+{
+  "message": {
+    "message": "",
+    "code": 4041,
+    "status": 400
+  },
+  "level": "error",
+  "timestamp": "21Y-03-29 22:24:44"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4041,
+    "status": 400
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error",
+  "timestamp": "2021-03-29 22:56:51"
+}
+{
+  "message": "Unexpected token n in JSON at position 0",
+  "status": 400,
+  "level": "error",
+  "timestamp": "2021-03-31 22:35:44"
+}
+{
+  "message": "Unexpected token n in JSON at position 0",
+  "status": 400,
+  "level": "error",
+  "timestamp": "2021-03-31 22:37:11"
+}
+{
+  "message": "Unexpected token n in JSON at position 0",
+  "status": 400,
+  "level": "error",
+  "timestamp": "2021-03-31 22:37:19"
+}
+{
+  "message": "\"email\" with value \"dfd@s\" fails to match the required pattern: /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$/",
+  "code": 4004,
+  "status": 400,
+  "level": "error",
+  "timestamp": "2021-03-31 22:38:00"
+}
+{
+  "message": "\"password\" is required",
+  "code": 4004,
+  "status": 400,
+  "level": "error",
+  "timestamp": "2021-03-31 22:38:13"
+}
+{
+  "message": "\"password\" with value \"199ririna\" fails to match the required pattern: /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9]).{8,}$/",
+  "code": 4004,
+  "status": 400,
+  "level": "error",
+  "timestamp": "2021-03-31 22:39:17"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4009,
+    "status": 400
+  },
+  "level": "error",
+  "timestamp": "2021-03-31 22:39:26"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error",
+  "timestamp": "2021-04-01 11:39:39"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4041,
+    "status": 400
+  },
+  "level": "error",
+  "timestamp": "2021-04-01 11:42:38"
+}
+{
+  "message": {
+    "message": "",
+    "code": 4011,
+    "status": 401
+  },
+  "level": "error",
+  "timestamp": "2021-04-01 11:44:33"
+}
+{
+  "message": "xxxx",
+  "level": "error",
+  "timestamp": "2021-04-01 11:44:44"
+}
